@@ -6,7 +6,7 @@
 
 <div align="left">
   <a href="https://github.com/cauamistura">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauamistura&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauamistura&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## Tecnologias que eu uso no meu dia
