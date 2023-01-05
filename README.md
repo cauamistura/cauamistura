@@ -1,4 +1,5 @@
 ## Hi! My name is Cauã Mistura
+Currently I work with desktop programming using mainly Delphi and Firebird-SQL and I study web programming and related technologies, such as JavaScript, Node and Postgresql
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caua_mistura/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
