@@ -1,5 +1,5 @@
 ## Cauã Mistura
-Sou formado no curso técnico em informática em Informatica do instituto federal de santa catarina (IFSC) e atualmente trabalho com programação desktop utilizando principalmente Delphi e Firebird-SQL. Paralelamente, estudo programação para dispositivos móveis, utilizando o framework híbrido Flutter.
+Sou formado em Informática pelo IFSC e trabalho atualmente com programação desktop, especialmente utilizando Delphi e Firebird-SQL. Paralelamente, estudo programação para dispositivos móveis. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIVALI, onde aprofundo meus conhecimentos na área de tecnologia e desenvolvimento
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caua_mistura/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
