@@ -1,5 +1,5 @@
 ## Cauã Mistura
-Sou formado em Informática pelo IFSC e trabalho atualmente com programação desktop/web, especialmente utilizando c# e .Net, juntamente com Delphi. Em paralelo a isso estou me especializando no desenvolvimento fullstack aprimorando meus conhecimentos em diversas áreas do desenvolvimento 
+Sou formado em Informática pelo IFSC e curso superior em analise e desenvolvimento de sistemas pela UNIVALI em quanto trabalho com programação desktop/web, especialmente utilizando c# e .Net, juntamente com Delphi. Em paralelo a isso estou me especializando no desenvolvimento fullstack aprimorando meus conhecimentos em diversas áreas do desenvolvimento 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caua_mistura/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
