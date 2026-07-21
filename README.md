@@ -1,17 +1,24 @@
 <h1 align="center">Olá, eu sou o Cauã Mistura 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> · C# · .NET · React · SQL Server
+  <b>Desenvolvedor de Sistemas</b> · C# · .NET · React · Vue · Delphi
+</p>
+
+<p align="center">
+  📍 Blumenau, Santa Catarina, Brasil
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caua-mistura/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/cauamistura">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.instagram.com/caua_mistura/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:leticiatereza83@gmail.com">
+  <a href="mailto:cauamistura1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -24,13 +31,33 @@
 
 ## 🧑‍💻 Sobre mim
 
-Desenvolvedor **Full Stack** com sólida experiência em aplicações **desktop e web**. Formado em Informática pelo **IFSC** e cursando **Análise e Desenvolvimento de Sistemas** na **UNIVALI**.
+Desenvolvedor de sistemas com experiência em aplicações **desktop e web**, atuando na manutenção e evolução de **sistemas ERP** de grande porte (finanças, tributações e produção).
 
-- 🔭 Atuo com foco em desenvolvimento full stack usando **React, .NET e SQL Server**
-- 💼 Forte experiência com **C# / .NET** em ambientes desktop e web, além de **Delphi**
-- 🗄️ Base sólida em **bancos de dados**, versionamento com **Git** e **arquitetura de software**
-- 🌱 Em constante evolução, buscando novas tecnologias e boas práticas
-- 🎯 Foco em entregar soluções **robustas, escaláveis e de alto desempenho**
+- 🏢 Atualmente **Desenvolvedor Sênior na Benner**, trabalhando com ERP robusto
+- 🔄 Experiência na **migração de sistemas Delphi (desktop) para plataformas web modernas**
+- 💻 Stack principal: **C#, .NET, Vue.js, React, Windows Forms e Delphi (Object Pascal)**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNIVALI · Técnico em Programação pelo **IFSC**
+- 🎯 Foco em resolução de problemas, otimização de código e boas práticas de desenvolvimento
+
+---
+
+## 💼 Experiência
+
+**Benner** · 2 anos e 8 meses
+- **Desenvolvedor Sênior** _(out/2025 – atual)_ — Manutenção e novas funcionalidades em sistema ERP (finanças, tributações e produção)
+- **Desenvolvedor Pleno** _(dez/2024 – out/2025)_
+- **Desenvolvedor Júnior** _(dez/2023 – dez/2024)_ — Migração de ERP desktop em Delphi para web com **C#, Windows Forms e Vue.js**
+
+**SCI Sistemas Contábeis** · 1 ano e 4 meses
+- **Desenvolvedor Delphi** _(jul/2023 – dez/2023)_ — Módulo fiscal em sistema desktop com **Object Pascal**
+- **Estagiário de Desenvolvimento** _(set/2022 – jun/2023)_ — Desenvolvimento de sistemas contábeis
+
+---
+
+## 🎓 Formação
+
+- **UNIVALI** — Tecnólogo em Análise e Desenvolvimento de Sistemas _(2023 – 2026)_
+- **IFSC** — Técnico Integrado em Programação de Computadores _(2019 – 2023)_
 
 ---
 
@@ -39,24 +66,20 @@ Desenvolvedor **Full Stack** com sólida experiência em aplicações **desktop 
 #### Linguagens
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+![Object Pascal](https://img.shields.io/badge/Object_Pascal-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Frameworks & Bibliotecas
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 
-#### Bancos de Dados
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Ferramentas
+#### Ferramentas & Ambientes
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![RAD Studio](https://img.shields.io/badge/RAD_Studio-E62431?style=for-the-badge&logo=embarcadero&logoColor=white)
 
 ---
 
@@ -74,5 +97,5 @@ Desenvolvedor **Full Stack** com sólida experiência em aplicações **desktop 
 ---
 
 <p align="center">
-  <i>💡 "Sempre em busca de aprender algo novo e evoluir a cada projeto."</i>
+  <i>💡 "Busco desafios que me permitam evoluir e contribuir para projetos inovadores."</i>
 </p>
