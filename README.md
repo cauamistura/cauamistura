@@ -23,17 +23,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cauamistura&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre mim
 
 Desenvolvedor de sistemas com experiência em aplicações **desktop e web**, atuando na manutenção e evolução de **sistemas ERP** de grande porte (finanças, tributações e produção).
 
-- 🏢 Atualmente **Desenvolvedor Sênior na Benner**, trabalhando com ERP robusto
+- 🏢 Atualmente **Desenvolvedor Sênior na Benner**, trabalhando com ERP
 - 🔄 Experiência na **migração de sistemas Delphi (desktop) para plataformas web modernas**
 - 💻 Stack principal: **C#, .NET, Vue.js, React, Windows Forms e Delphi (Object Pascal)**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNIVALI · Técnico em Programação pelo **IFSC**
@@ -93,9 +89,3 @@ Desenvolvedor de sistemas com experiência em aplicações **desktop e web**, at
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauamistura&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
----
-
-<p align="center">
-  <i>💡 "Busco desafios que me permitam evoluir e contribuir para projetos inovadores."</i>
-</p>
